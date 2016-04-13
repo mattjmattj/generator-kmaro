@@ -1,4 +1,4 @@
-# generator-kmaro [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-kmaro [![NPM version][npm-image]][npm-url]
 > Generates K&#39;maro lyrics
 
 ## Installation
@@ -30,7 +30,3 @@ MIT © [Matthias Jouan]()
 
 [npm-image]: https://badge.fury.io/js/generator-kmaro.svg
 [npm-url]: https://npmjs.org/package/generator-kmaro
-[travis-image]: https://travis-ci.org/mattjmattj/generator-kmaro.svg?branch=master
-[travis-url]: https://travis-ci.org/mattjmattj/generator-kmaro
-[daviddm-image]: https://david-dm.org/mattjmattj/generator-kmaro.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/mattjmattj/generator-kmaro
