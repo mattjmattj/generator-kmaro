@@ -1,6 +1,6 @@
-Donne moi ton cœur baby, ton corps baby  
+Donne moi ton cœur <%= name %>, ton corps <%= name %>  
 Donne moi ton bon vieux funk, 
-Ton rock baby, ta soul baby  
+Ton rock <%= name %>, ta soul <%= name %>  
 Chante avec moi, je veux une femme like you 
 Pour m'emmener au bout du monde 
 Une femme like you
